@@ -1,0 +1,30 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1729447262
+<< viali >>
+rect -17 799 17 975
+rect -17 169 17 345
+<< metal1 >>
+rect -23 975 125 987
+rect -23 799 -17 975
+rect 17 799 125 975
+rect -23 787 125 799
+rect 141 395 175 740
+rect -7 357 119 358
+rect 216 357 255 829
+rect -23 345 119 357
+rect -23 169 -17 345
+rect 17 169 119 345
+rect 179 318 255 357
+rect -23 158 119 169
+rect -23 157 23 158
+use sky130_fd_pr__nfet_01v8_64Z3AY  XM1
+timestamp 1729446525
+transform 1 0 158 0 1 288
+box -211 -279 211 279
+use sky130_fd_pr__pfet_01v8_LGS3BL  XM2
+timestamp 1729446525
+transform 1 0 158 0 1 851
+box -211 -284 211 284
+<< end >>
